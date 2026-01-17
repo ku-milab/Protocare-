@@ -3,7 +3,7 @@
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 [![Framework](https://img.shields.io/badge/PyTorch-2.3.0-orange.svg)](https://pytorch.org/)
 
-This repository contains the official PyTorch implementation of the paper: **"ProtoCare+: Knowledge Graph Guided Representation Learning for Diagnosis Prediction"**, accepted in *IEEE Transactions on Neural Networks and Learning Systems (2025)*.
+This repository contains the official PyTorch implementation of the paper: **"ProtoCare+: Knowledge Graph Guided Representation Learning for Diagnosis Prediction"**, Under review, 2026.
 
 ## 📝 Abstract
 
